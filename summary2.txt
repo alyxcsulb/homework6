@@ -1,0 +1,24 @@
+A 151
+It does not have all letters B 6
+It does not have all letters C 9
+It does not have all letters D 23
+It does not have all letters E 73
+It does not have all letters F 18
+It does not have all letters G 12
+It does not have all letters H 71
+It does not have all letters I 44
+It does not have all letters K 23
+It does not have all letters L 21
+It does not have all letters M 39
+It does not have all letters N 62
+It does not have all letters O 69
+It does not have all letters P 18
+It does not have all letters R 52
+It does not have all letters S 52
+It does not have all letters T 91
+It does not have all letters U 38
+It does not have all letters V 7
+It does not have all letters W 26
+It does not have all letters Y 25
+It does not have all letters Z 2
+It does not have all letters 
